@@ -1,0 +1,12 @@
+#code_snippet {
+    background-color: gainsboro;
+    width: 750px;
+    border: 1px solid;
+    font-size: 20px;
+}
+
+#load_date {
+    color: green;
+    font-family: Arial, serif;
+    font-size: 20px;
+}
